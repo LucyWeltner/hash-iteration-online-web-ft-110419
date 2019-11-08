@@ -20,4 +20,4 @@ def age_appropriate_birthday(kids)
     end 
   end 
 end
-
+p happy_birthday(birthday_kids)
