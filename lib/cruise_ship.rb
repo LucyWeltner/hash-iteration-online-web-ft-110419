@@ -7,5 +7,6 @@
 # }
 
 def select_winner(passengers)
+  if room = room_a
   # add the code snippet here!
 end
